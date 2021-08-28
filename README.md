@@ -1,2 +1,1 @@
-# Case_Study
-Parallel and Distributed System Case Study
+# Parallel and Distributed System 
